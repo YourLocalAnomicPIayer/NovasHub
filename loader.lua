@@ -11494,7 +11494,7 @@
 
 
 
-loadstring(game:HttpGet(("https://raw.githubusercontent.com/BopIsTaken/UI-Library/main/bopUI.lua"),true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BopIsTaken/UI-Library/main/bopUI.lua"))()
 
 
 
